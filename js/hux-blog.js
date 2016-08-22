@@ -60,6 +60,14 @@ jQuery(document).ready(function($) {
                     if (currentTop > headerHeight && !$('.navbar-custom').hasClass('is-fixed')) $('.navbar-custom').addClass('is-fixed');
                 }
                 this.previousTop = currentTop;
+
+                //adjust the appearance of side-catalog
+                $catalog.show();
+                if (currentTop > (bannerHeight + 41)) {
+                    $catalog.addClass('fixed');
+                } else {
+                    $catalog.removeClass('fixed');
+                }
             });
     }
 });
