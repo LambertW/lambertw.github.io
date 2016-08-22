@@ -4,8 +4,8 @@ title:      	"「SRTF」安防监控系统"
 subtitle:   	"2014/08/15-2014/09/01"
 date:       	"2016-08-22 14:07:00 +0800"
 author:     	"LambertWu"
-header-img: 	""
-catalog:	true
+header-img: 	"img/in-post/srtf-normal-bg.jpg"
+catalog:	    true
 tags:
     - 南方睿泰
 
@@ -13,6 +13,8 @@ tags:
 ---
 
 > 视频安防[监控系统](http://baike.baidu.com/view/130518.htm)利用视频技术探测、监视设防区域并实时显示、记录现场图像的电子系统或网络。
+
+返回主目录：[「SRTF」回忆录](/2016/08/22/hello-srtf/)
 
 # 背景
 

@@ -5,7 +5,7 @@ subtitle:   	"Hello World, Hello Blog"
 date:       	"2016-08-21 16:41:00 +0800"
 author:     	"LambertWu"
 header-img: 	"img/in-post/hello-blog.jpg"
-catalog:	true
+catalog:	    true
 tags:
     - 生活
 

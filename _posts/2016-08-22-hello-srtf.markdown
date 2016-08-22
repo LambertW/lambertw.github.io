@@ -5,7 +5,7 @@ subtitle:   	"挥霍了近三年的青春，留下的点点痕迹.."
 date:       	"2016-08-22 10:02:00 +0800"
 author:     	"LambertWu"
 header-img: 	"img/in-post/hello-srtf-bg.jpg"
-catalog:	true
+catalog:	    true
 tags:
     - 南方睿泰
     - 生活
@@ -41,15 +41,15 @@ tags:
    >
    > 综合布线系统是智能化办公室建设数字化信息系统基础设施,是将所有语音、数据等系统进行统一的规划设计的结构化布线系统，为办公提供信息化、智能化的物质介质，支持将来语音、数据、图文、多媒体等综合应用。
 
-2. 集团OA
+2. 「SRTF」OA规划及上线
 
 3. 企业建站
 
-4. HiBoss考勤产品系统设计研发
+4. 「QHRICO」HiBoss考勤产品系统设计研发
 
-5. HiBoss考勤产品建站
+5. 「QHRICO」HiBoss考勤产品建站
 
-6. 海闻增值税管理系统技术支持(需求调研/系统优化及ETL)
+6. 「QHRICO」海闻增值税管理系统技术支持(需求调研/系统优化及ETL)
 
 
 
