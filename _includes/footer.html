@@ -1,5 +1,10 @@
 <!-- Footer -->
 <footer>
+    <!-- Back to Top Button -->
+    <a href="#" class="back-to-top" style="display: none;"> 
+        <i class="fa fa-arrow-circle-up"></i> 
+    </a>
+    
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -142,7 +147,6 @@
     })
 </script>
 
-
 <!-- Google Analytics -->
 {% if site.ga_track_id %}
 <script>
@@ -161,7 +165,6 @@
 </script>
 {% endif %}
 
-
 <!-- Baidu Tongji -->
 {% if site.ba_track_id %}
 <script>
@@ -178,7 +181,6 @@
     })();
 </script>
 {% endif %}
-
 
 <!-- Side Catalog -->
 {% if page.catalog %}
@@ -223,3 +225,26 @@
     });
 </script>
 {% endif %}
+
+<!-- Back to Top Button -->
+<script type="text/javascript">
+    $(document).ready(function() {
+        var offset = 250;
+        var duration = 300;
+        if ($(this).scrollTop() > offset) {
+            $('.back-to-top').fadeIn(duration);
+        }
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > offset) {
+                $('.back-to-top').fadeIn(duration);
+            } else {
+                $('.back-to-top').fadeOut(duration);
+            }
+        });
+        $('.back-to-top').click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, duration);
+            return false;
+        })
+    });
+</script>
