@@ -6,6 +6,7 @@ date:       	"2016-08-22 10:02:00 +0800"
 author:     	"LambertWu"
 header-img: 	"img/in-post/hello-srtf-bg.jpg"
 catalog:	    true
+header-mask:    0.1
 tags:
     - 南方睿泰
     - 生活
