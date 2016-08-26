@@ -2,7 +2,7 @@
 layout:     	post
 title:      	"「SRTF」办公网络系统"
 subtitle:   	"2014/07/01-2014/09/01"
-date:       	"2016-08-26 13:43:00 +0800"
+date:       	"2016-08-26 09:43:00 +0800"
 author:     	"LambertWu"
 header-img: 	"img/in-post/srtf-normal-bg.jpg"
 catalog:	true
